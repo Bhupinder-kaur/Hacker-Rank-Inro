@@ -15,3 +15,5 @@ I used [Programming Language] to solve this challenge. My approach focused on:
 Writing clean and efficient code
 Ensuring readability and simplicity
 Handling edge cases for robust performance
+![image](https://github.com/user-attachments/assets/6beaa773-54d7-4495-8a06-7664d40f0540)
+
